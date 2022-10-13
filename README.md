@@ -8,17 +8,17 @@
 
 #
 
-### *Usage*
+### *Usage:*
 
 - **![Demonstration of App Usage]()**
 #
 
-### *Deployed Application*
+### *Deployed Application:*
 
 - **[Note Taker]()**
 #
 
-#### *Technologies*
+#### *Technologies Used:*
 
 - **[UUID](https://www.uuidgenerator.net/)**
 - **[Express](https://expressjs.com/)**
