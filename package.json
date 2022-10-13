@@ -9,15 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Brevenn/note-taker.git"
-  },
-  "keywords": [],
-  "bugs": {
-    "url": "https://github.com/Brevenn/note-taker/issues"
-  },
-  "homepage": "https://github.com/Brevenn/note-taker#readme"
+    "express": "^4.16.4",
+    "uuid": "^8.3.2"
+  }
 }
