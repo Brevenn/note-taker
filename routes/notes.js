@@ -1,5 +1,5 @@
 const notes = require("express").Router();
-const { readFromFile, writeToFile, readAndAppend } = require("../helpers/");
+const { readFromFile, writeToFile, readAndAppend } = require("../helpers/fs");
 const { v4: uuidv4 } = require("uuid");
 
 notes.get("/", (req, res) => {
